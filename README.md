@@ -1,2 +1,2 @@
 # MyWebSite
-This is where I will create my webSite 
+I will add here all information and user manuals for the applications i am writing 
